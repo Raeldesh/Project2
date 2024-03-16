@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 4e5a06c72481a40d1a1121b64b1d1638
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_0"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4100
+        width: 1900
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3587bf5a78841f69d268a6457ee8b2
+      internalID: 604158663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_1"
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 4100
+        width: 1900
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0947795a4b14a739609706e9ac67cc
+      internalID: 180629315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_2"
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 4100
+        width: 1900
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a024fcd2f90644bdbaca60bb920affb6
+      internalID: -1576564733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_3"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2200
+        width: 1900
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df5baf836404f4a98f91c1b431268e
+      internalID: 159473200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_4"
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2200
+        width: 1900
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69688aefa13f34226a6be916cb3aa23b
+      internalID: 1554544982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_5"
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 2200
+        width: 1900
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eedbb767c734f4e9bda04cf5dcfa03
+      internalID: 410575792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_6"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 300
+        width: 1900
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2bf12ead39b4a4fb91b2bd7cebcc1d
+      internalID: 1564393032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_7"
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 300
+        width: 1900
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3427e1e6af192437d8f20aa4ed52b036
+      internalID: -1119609030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_8"
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 300
+        width: 1900
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b43aed0f6694f33918ecb1fb41c34d
+      internalID: 1093515702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_0": 604158663
+      "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_1": 180629315
+      "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_2": -1576564733
+      "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_3": 159473200
+      "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_4": 1554544982
+      "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_5": 410575792
+      "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_6": 1564393032
+      "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_7": -1119609030
+      "a\u0302\x80\x94Pngtreea\u0302\x80\x94sparkling black and white symbol_5574568_8": 1093515702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
